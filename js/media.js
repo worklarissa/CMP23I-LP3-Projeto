@@ -19,7 +19,9 @@ function calcularMedia() {
 
   let mensagem = "Ops! tem algo errado. Tente novamente!";
   // evite mexer no código acima!
-
+  switch(nota1, nota2, nota3, nota4):
+  case (null, null, null, null): break;
+  case 
   // evite mexer na linha de código abaixo!
   document.getElementById("situacaoAluno").innerHTML = mensagem;
 }
