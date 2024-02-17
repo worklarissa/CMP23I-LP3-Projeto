@@ -6,6 +6,7 @@ Este projeto consiste em uma calculadora simples e uma calculadora de média ari
 Reaalmente, o primeiro projeto é o mais díficil, são tantas dúvidas, tantas incertezas, e com certeza, DESAFIOS. Ao final, deu tudo certo e ele está pronto.
 
 ## Acesse Aqui
+https://calculadoras-worklari.netlify.app/
 
 ## Créditos
 Agradecimentos a Liz e Grazy que nos auxiliaram nessa matédira durante o curso. E ao Instituto Minas Programam por ofertar um conteúdo tão rico e acessível.
